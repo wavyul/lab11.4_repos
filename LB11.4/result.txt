@@ -1,0 +1,4 @@
+Number of lines starting with character '1': 1
+Number of lines starting and ending with the same character: 8
+Number of lines with identical characters: 6
+Number of empty lines: 0

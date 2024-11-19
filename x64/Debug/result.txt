@@ -1,0 +1,4 @@
+Number of lines starting with character 'a': 3
+Number of lines starting and ending with the same character: 2
+Number of lines with identical characters: 1
+Number of empty lines: 1
